@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[GridMasterDetailViewController.cs](./CS/WebSolution.Module.Web/GridMasterDetailViewController.cs) (VB: [GridMasterDetailViewController.vb](./VB/WebSolution.Module.Web/GridMasterDetailViewController.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to support Master-Detail mode in the Web ListView
 
 
